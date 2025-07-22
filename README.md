@@ -57,8 +57,8 @@ Amrita School of Computing, Amaravati Campus
 ---
 
 ##  Sample Output
-![Sample ROC Curve](path/to/roc_curve.png)  
-![Confusion Matrix](path/to/confusion_matrix.png)
+![Sample ROC Curve](ROC.jpeg)  
+![Confusion Matrix](ConfusionMatrix.jpeg)
 
 ---
 
